@@ -1,4 +1,4 @@
-# Inspecting The Web With Rack
+p?# Inspecting The Web With Rack
 
 ##  Objectives
 1. Explain the mechanics of Rack 
